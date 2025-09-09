@@ -1,2 +1,4 @@
-# ICT_4305
-Repository for ICT 4305 materials. 
+# ICT_4305 Objecy Oriented Programming 
+## Contributors 
+- Nirav Shah
+- Kalika Browder

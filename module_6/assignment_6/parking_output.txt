@@ -1,0 +1,11 @@
+Registered: Customer[Kalika, 1214b4dd-531a-4ccf-8ed5-1dce59780d69] with car Car[OCD-123,COMPACT,Kalika] permit Permit[22c36abf-a2ef-4089-ad39-c65d6664bc64]
+Entered Lot B (entry-only): true
+Charge[permit=22c36abf-a2ef-4089-ad39-c65d6664bc64, lot=L2, time=2025-10-14T16:04:25.395484Z, amt=$1.20]
+Entered Lot A (entry-exit): true
+Exited Lot A: true
+All charges:
+Charge[permit=22c36abf-a2ef-4089-ad39-c65d6664bc64, lot=L2, time=2025-10-14T16:04:25.395484Z, amt=$1.20]
+Charge[permit=22c36abf-a2ef-4089-ad39-c65d6664bc64, lot=L1, time=2025-10-14T16:04:26.444267Z, amt=$1.60]
+Charges for Kalika:
+Charge[permit=22c36abf-a2ef-4089-ad39-c65d6664bc64, lot=L2, time=2025-10-14T16:04:25.395484Z, amt=$1.20]
+Charge[permit=22c36abf-a2ef-4089-ad39-c65d6664bc64, lot=L1, time=2025-10-14T16:04:26.444267Z, amt=$1.60]

@@ -1,0 +1,12 @@
+parking/TransactionManagerTest.java
+parking/MoneyTest.java
+parking/ParkingLotTest.java
+parking/CarTest.java
+parking/AddressTest.java
+parking/ParkingPermitTest.java
+parking/PermitManagerTest.java
+parking/ParkingChargeTest.java
+parking/PermitTest.java
+parking/ParkingOfficeTest.java
+parking/ParkingTransactionTest.java
+parking/CustomerTest.java
